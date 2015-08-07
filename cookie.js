@@ -1,5 +1,5 @@
 /*
-Cookie is an extension to Prototype that handles cookies. 
+Cookie is an extension to Prototype that handles cookies.
 
 Cookie is written by Carlos Reche. It is available on the Scripaculous wiki at http://wiki.script.aculo.us/scriptaculous/show/Cookie
 */
